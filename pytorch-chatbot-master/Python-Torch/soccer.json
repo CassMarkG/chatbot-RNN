@@ -1,0 +1,88 @@
+ {
+    "intents" : [
+        {   "tag" : "Warm-Up Exercises",
+            "patterns": [
+                "What are some warm-up exercises I can do before soccer training?",
+                "Tell me how to do a proper dynamic stretch."
+            ],
+            "responses": [
+                "Sure! A dynamic warm-up routine can include high knees, butt kicks, leg swings, and lunges. Perform each exercise for 1 minute."
+            ]
+        },
+
+        {
+            "tag": "Warm-Up Exercises",
+            "patterns": [
+                "What are some warm-up exercises I can do before soccer training?",
+                "Tell me how to do a proper dynamic stretch."
+            ],
+            "responses": [
+                "Sure! A dynamic warm-up routine can include high knees, butt kicks, leg swings, and lunges. Perform each exercise for 1 minute."
+            ]
+        },
+        {
+            "tag": "Warm-Up Exercises",
+            "patterns": [
+                "What is the correct way to dive as a goalkeeper?",
+                "Tell me about the 'Jockeying' technique in defense."
+            ],
+            "responses": [
+                "Certainly! A proper goalkeeper dive involves pushing off your legs, extending your arms, and aiming for the ball. 'Jockeying' in defense means using body positioning to guide the attacker away from the goal."
+            ]
+        },
+        {
+            "tag": "Warm-Up Exercises",
+            "patterns": [
+                "Can you provide a dynamic warm-up routine for soccer?",
+                "What are the best static stretching exercises before training?"
+            ],
+            "responses": [
+                "Of course! A dynamic warm-up routine can include jogging, high knees, side shuffles, and leg swings. For static stretching, focus on your quadriceps, hamstrings, calves, and hip flexors."
+            ]
+        },
+        {
+            "tag": "Warm-Up Exercises",
+            "patterns": [
+                "Should I include cardio exercises in my warm-up routine?",
+                "What are some cool-down exercises after soccer practice?"
+            ],
+            "responses": [
+                "Yes, cardio exercises like jogging,jumping jacks,jump rope can raise your heart rate gradually. After practice, cool down with light jogging, static stretching, and deep breathing exercises."
+            ]
+        },
+        {
+            "tag": "Warm-Up Exercises",
+            "patterns": [
+                "How long should a proper warm-up session last?",
+                "Are there specific warm-up exercises to prevent injuries?"
+            ],
+            "responses": [
+                "A good warm-up session should last around 10-15 minutes. To prevent injuries, focus on dynamic stretches, light cardio, and sport-specific movements during warm-up."
+            ]
+        },
+
+        {   "tag" : "Dribbling Drills",
+            "patterns": [
+                "What are some dribbling drills to improve my skills?",
+                "Can you explain the 'Cone Dribbling' drill?"
+            ],
+            "responses": [
+                "Certainly! The 'Cone Dribbling' drill involves weaving through cones placed in a zigzag pattern. Focus on close ball control and quick direction changes."
+            ]
+        },
+        {   "tag" : "Shooting Techniques",
+            "patterns": [
+                "How can I improve my shooting techniques?",
+                "Tell me about the 'Instep Drive' shooting technique."
+            ],
+            "responses": [
+                "To master the 'Instep Drive,' strike the ball with the laces while leaning slightly forward. Follow through and aim for the corners of the net."
+            ]
+        },
+        {
+            
+        }
+    ]
+}
+
+

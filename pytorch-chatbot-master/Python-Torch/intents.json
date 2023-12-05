@@ -1,0 +1,103 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Greetings",
+        "What's up?",
+        "Howdy"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?",
+        "Greetings! How's it going?",
+        "What's up? Nice to see you!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Farewell", "Take care"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Farewell! Take care."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!", "Appreciate it"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure", "You're welcome!"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?",
+        "sell",
+        "items",
+        "products",
+        "product",
+        "things",
+        "Can you show me your products?",
+        "Tell me about your items"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea",
+        "Our products include coffee and tea blends"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?",
+        "What payment methods are accepted?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard, and Paypal",
+        "We accept most major credit cards, and Paypal",
+        "Credit cards and Paypal are accepted"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?",
+        "Tell me about your delivery process"
+      ],
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days",
+        "Your delivery will arrive within 2-4 business days"
+      ]
+    },
+    {
+      "tag": "custom_tag",
+      "patterns": [
+        "Custom pattern 1",
+        "Custom pattern 2",
+        "Any custom question?"
+      ],
+      "responses": [
+        "Custom response 1",
+        "Custom response 2",
+        "I'm here to help with any custom inquiries!"
+      ]
+    }
+  ]
+}
